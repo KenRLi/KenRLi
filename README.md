@@ -1,7 +1,7 @@
 \[Banner\]\*
 
 ## Greetings 👋
-My name is Ken and I am a recent computer science graduate from the University of Alberta. I am currently focusing on desktop application and video game development; however, I also have experience in web and mobile applications development. I also have basic understand in artificial intelligence (machine learning, reinforcement learning, neural networks, image recognition).
+My name is Ken and I am a recent computer science graduate from the University of Alberta. I am currently focusing on desktop application and video game development; however, I also have experience in web and mobile application development. I also have basic understand in artificial intelligence (machine learning, reinforcement learning, neural networks, image recognition).
 
 My hobbies include: photography 📷, graphic design 🎨, and video production 📹.
 
