@@ -16,6 +16,6 @@ My hobbies include: Photography 📷, Graphic Design 🎨, and Video Production 
 * Regicide - A JRPG-like game created on Bioware's Aurora Engine.
 
 ## Contact
-<img src="https://raw.githubusercontent.com/KenRLi/KenRLi/7684a5438ec622c49cb05403421b1d94e0dc6cdc/imgs/linkedin-logo.svg" alt="LinkedIn Logo" width="100" height="100">: [LinkedIn](https://www.linkedin.com/in/kenrli/)
+<img src="https://raw.githubusercontent.com/KenRLi/KenRLi/7684a5438ec622c49cb05403421b1d94e0dc6cdc/imgs/linkedin-logo.svg" alt="LinkedIn Logo" width="50" height="50">: ![LinkedIn](https://www.linkedin.com/in/kenrli/)
 
-<img src="https://raw.githubusercontent.com/KenRLi/KenRLi/7684a5438ec622c49cb05403421b1d94e0dc6cdc/imgs/globe-solid.svg)" alt="Globe Icon" width="100" height="100">: [kenringli.com](http://www.kenringli.com)
+<img src="https://raw.githubusercontent.com/KenRLi/KenRLi/7684a5438ec622c49cb05403421b1d94e0dc6cdc/imgs/globe-solid.svg" alt="Globe Icon" width="50" height="50">: ![kenringli.com](http://www.kenringli.com)
