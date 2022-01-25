@@ -6,7 +6,6 @@ My name is Ken and I am a recent computer science graduate from the University o
 My hobbies include: Photography 📷, Graphic Design 🎨, and Video Production 📹.
 
 ## Current Projects
-* Redesigning my website
 * Implementing common algorithms in multiple languages
 
 ## Previous Projects
